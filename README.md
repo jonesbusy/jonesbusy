@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi 👋
+
+
+🔭 I’m currently working on
+
+- Jenkins
+- Nexus
+- Kubernetes
+- Rancher 2
+- Kubernetes
+- Terraform
+- Packer
+- Ansible
+- Azure cloud
+- And much more cool stuff....
+
+😄 He/him
 
 <!--
 **jonesbusy/jonesbusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
