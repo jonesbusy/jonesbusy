@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on
 
-Jenkins, Nexus, Sonarqube, Kubernetes, Rancher 2, Kubernetes, Terraform, Packer, Ansible, Azure
+Jenkins, Nexus, Sonarqube, Kubernetes, Rancher 2, Kubernetes (again), Terraform, Packer, Ansible, Azure
 
 And much more cool stuff....
 
