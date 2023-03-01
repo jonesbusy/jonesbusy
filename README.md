@@ -3,11 +3,9 @@
 
 🔭 I’m currently working on
 
-Jenkins, Nexus, Sonarqube, Kubernetes, Rancher 2, Kubernetes (again), Terraform, Packer, Ansible, Azure
+Jenkins, Nexus, Sonarqube, Kubernetes, Rancher 2, Openshift/OKD, FluxCD, Terraform, Packer, Ansible, Azure, Exocale
 
 And much more cool stuff....
-
-😄 He/him
 
 <!--
 **jonesbusy/jonesbusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
