@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on
 
-Jenkins, Nexus, Sonarqube, Kubernetes, Rancher 2, Openshift/OKD, FluxCD, Terraform, Packer, Ansible, Azure, Exocale
+Jenkins, Sonarqube, Kubernetes, Backstage, Argo Workflows, OKD, FluxCD, Terraform, Ansible
 
 And much more cool stuff....
 
