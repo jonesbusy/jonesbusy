@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesbusy&count_private=true&hide=stars&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesbusy&count_private=true&hide=stars&show_icons=true&theme=cobalt)
+
+[![Board](https://holopin.io/api/user/board?user=jonesbusy)](https://holopin.io/@jonesbusy)
