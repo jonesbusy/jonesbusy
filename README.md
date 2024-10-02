@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesbusy&count_private=true&hide=stars&show_icons=true&theme=cobalt)
 
-[![Board](https://holopin.io/api/user/board?user=jonesbusy)](https://holopin.io/@jonesbusy)
+[![An image of @jonesbusy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonesbusy)](https://holopin.io/@jonesbusy)
