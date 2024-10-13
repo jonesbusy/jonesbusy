@@ -9,6 +9,8 @@ And much more cool stuff....
 
 Currently I'm working on ORAS and a Java SDK for OCI storage (Jenkins / Maven)
 
+I'm doing also contribution on OpenRewrite mainly for the Jenkins project
+
 <!--
 **jonesbusy/jonesbusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
