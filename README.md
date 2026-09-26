@@ -25,7 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesbusy&count_private=true&hide=stars&show_icons=true&theme=cobalt)
-
 [![An image of @jonesbusy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonesbusy)](https://holopin.io/@jonesbusy)
